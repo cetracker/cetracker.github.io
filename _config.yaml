@@ -1,5 +1,5 @@
-remote_theme: pages-themes/architect@v0.2.0
 title: CETracker
-description: cycling equipment usage tracker
-plugins:
-- jekyll-remote-theme
+description: Cycling Equipment Usage Tracker
+theme: just-the-docs
+
+url: https://cetracker.github.io
