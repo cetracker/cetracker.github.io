@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
 title: CETracker
-description: cycling equipment tracker
+description: cycling equipment usage tracker
+plugins:
+- jekyll-remote-theme
