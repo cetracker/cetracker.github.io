@@ -1,4 +1,7 @@
-# Date Export from the MyTourBook Derby database
+---
+layout: default
+title: Date Export from the MyTourBook Derby database
+---
 
 ## Tools Used
 

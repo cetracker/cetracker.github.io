@@ -1,3 +1,7 @@
+---
+title: Cycle Equipment Usage Tracker
+layout: home
+---
 # Cycle Equipment Usage Tracker
 
 ## About
