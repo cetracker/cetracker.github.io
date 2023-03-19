@@ -3,3 +3,6 @@ description: Cycling Equipment Usage Tracker
 theme: just-the-docs
 
 url: https://cetracker.github.io
+
+plugins:
+  - jekyll-default-layout
