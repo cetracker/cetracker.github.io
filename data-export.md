@@ -37,7 +37,7 @@ SELECT * FROM TOURDATA
 SELECT * FROM TOURBIKE;
 ```
 
-## Extrakting the Data using DBeaver
+## Extracting the Data using DBeaver
 
 ### Setup
 
@@ -75,7 +75,7 @@ WHERE STARTYEAR=2022 AND TOURPERSON_PERSONID=0 AND TOURTYPE_TYPEID=0;
 Obvioulsy, you need to adjust the `WHERE` clause of the query above to meet your data.
 
 Once you have veryfied the query result to be feasable:
-![SQL Query Result](pictures/dbeaver_sql_query_01.png)
+![SQL Query Result](pictures/dbeaver_query_result.png)
 
 You may now finally export the data via RMB click on any result value, choosing export:
 ![Result Export](pictures/dbeaver_result_export_01.png)
