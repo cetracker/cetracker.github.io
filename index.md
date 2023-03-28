@@ -1,5 +1,5 @@
 ---
-title: Cycle Equipment Usage Tracker
+title: Home
 layout: home
 ---
 # Cycle Equipment Usage Tracker

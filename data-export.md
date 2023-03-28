@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Date Export from the MyTourBook Derby database
+title: Data Export/Import
 ---
-# Date Export from the MyTourBook Derby database
+# Data Export from the MyTourBook Derby database
 
 ## Tools Used
 
