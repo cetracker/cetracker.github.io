@@ -16,7 +16,9 @@ Even more so, if you are used to change parts frequently. You have a second set 
 As a personal project, it was born after I had these questions mentioned above. Since using [MyTourBook](https://mytourbook.sourceforge.io/) to keep track of all my tours, I've joined the discussion about a feature sugesting issue [777](https://github.com/mytourbook/mytourbook/issues/777) on the MyTourBook GH project. Basically, this project spawned from the ongoing discussion.  
 Even though, it's still more or less a showcase for this feature, it's still usable on it's own.
 
-## Prerequesite
+![report](./pictures/report_small.png)
+
+## Prerequisite
 
 - MyTourBook is used for tour statistic
   - Alernativly, the cumbersome work of manually entering the basic details about the completed tours would be possible
