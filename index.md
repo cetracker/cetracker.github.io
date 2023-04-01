@@ -11,7 +11,7 @@ How many miles did the last chain last before it had to be replaced? How many ho
 
 If you've ever asked yourself these questions, CETracker can probably help.
 
-Even more so if you change the parts on your bike frequently. Do you have several sets of wheels that you use depending on the type of tour? If you are willing to maintain your bike with CETracker, the answers to these questions are just a click away.
+Even more so if you change the parts on your bike frequently. Do you have several sets of wheels that you use depending on the type of tour? If you are prepared to keep track of your bike maintenance with CETracker, the answers to these questions are just a click away.
 
 CETracker is a personal project that came about after I had the issues mentioned above. Since I have been using
 [MyTourBook](https://mytourbook.sourceforge.io/) for many year, to keep track of all my tours, I've joined the discussion in suggested feature issue [777](https://github.com/mytourbook/mytourbook/issues/777) about a adding this functionality on the MyTourBook GH project. Basically, this project grew out of the still ongoing discussion.  
