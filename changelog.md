@@ -13,3 +13,6 @@ title: Changelog
   - Include altitude and power details to tours.
   - Allow tours to be grouped by year and month.
   - Add calculated sum to each tour table's column.
+- 2023-04-02 - v0.2.1
+  - Offer multi platform container images, enabling it to run on Pi-OS 64
+
