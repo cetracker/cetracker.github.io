@@ -24,4 +24,15 @@ title: Changelog
     - basic relation validation
     - upgrade MantineReactTable
     - updates for many libraries
-- 2023-xx-xx - v0.2.3 NEXT
+- 2023-07-23 - v0.2.3
+  - Maintainance
+    - Library Updates
+  - Bugfixes
+    - Fix hibernate mapping mismatch
+- 2024-09-12 - v0.2.4
+  - Improvements
+    - Value aggregation on tour list page when grouping
+  - Maintainance
+    - Library Updates
+    - JDK update
+
