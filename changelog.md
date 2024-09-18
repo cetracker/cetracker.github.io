@@ -35,4 +35,14 @@ title: Changelog
   - Maintainance
     - Library Updates
     - JDK update
+- 2024-09-18 - v0.2.5 (frontend)
+  - Improvements
+    - Sorting by valid from by default on Part-PartType-Relations
+    - Add 'last used at bike' on part list
+    - Add an action to select a previously used part as the currently used one for the currently displayed part type
+      on the part type - relation list
+  - Maintainance    
+    - Upgrade vite, eslint etc
+  - Bugfixes
+    - Fix errors related to framework and dependency upgrades
 
