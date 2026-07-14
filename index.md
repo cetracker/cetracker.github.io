@@ -26,14 +26,14 @@ Even more so if you change the parts on your bike frequently. Do you have severa
 - Define **maintenance tasks** with distance or time intervals and get notified when they are overdue.
 - Travel back in time: view a bike's **composition on any past date** and browse the full mounting history.
 
-See the [Getting Started](./getting-started.md) guide for a step-by-step walk-through of the initial setup,
-and the [Screenshots](./screenshots.md) page for more impressions.
+See the [Getting Started](./getting-started.html) guide for a step-by-step walk-through of the initial setup,
+and the [Screenshots](./screenshots.html) page for more impressions.
 
 ## Prerequisites
 
 - Docker or Podman with Compose on your local computer, for running [cetracker-compose](https://github.com/cetracker/cetracker-compose). (There are no plans of hosting CETracker anywhere.)
   - Alternatively you could build and run the [cetrack-backend](https://github.com/cetracker/cetrack-backend) (Kotlin - Spring Boot) and the [cetrack-frontend](https://github.com/cetracker/cetrack-frontend) (npm/yarn - vite - React) yourself. There are detailed building instructions in each sub project's repository.
-- Tour data from one of the supported sources — see [Importing Tours](./tour-import.md):
+- Tour data from one of the supported sources — see [Importing Tours](./tour-import.html):
   - `.fit` files recorded by your bike computer or sports watch,
   - or a [MyTourBook](https://mytourbook.sourceforge.io/) tour database (JSON export or direct Derby database import).
 

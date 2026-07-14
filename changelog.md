@@ -29,14 +29,14 @@ entries below name both versions.
     - upgrade MantineReactTable
     - updates for many libraries
 - 2023-07-23 - v0.2.3
-  - Maintainance
+  - Maintenance
     - Library Updates
   - Bugfixes
     - Fix hibernate mapping mismatch
 - 2024-09-12 - v0.2.4
   - Improvements
     - Value aggregation on tour list page when grouping
-  - Maintainance
+  - Maintenance
     - Library Updates
     - JDK update
 - 2024-09-18 - v0.2.5 (frontend)
@@ -45,7 +45,7 @@ entries below name both versions.
     - Add 'last used at bike' on part list
     - Add an action to select a previously used part as the currently used one for the currently displayed part type
       on the part type - relation list
-  - Maintainance    
+  - Maintenance    
     - Upgrade vite, eslint etc
   - Bugfixes
     - Fix errors related to framework and dependency upgrades

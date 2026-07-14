@@ -73,7 +73,7 @@ dismounting the assembly then moves all its members together.
 
 Go to **Import Tours** and drop a `.fit` file from your bike computer, or a JSON export from MyTourBook.
 There is also a direct import from a MyTourBook Derby database. All options are described in detail on the
-[Importing Tours](./tour-import.md) page.
+[Importing Tours](./tour-import.html) page.
 
 ![tour import](./pictures/tour_import.png)
 
