@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Repositories
+nav_order: 6
 ---
 # Repository Overview
 
@@ -10,4 +11,3 @@ This is a short overview of the public [repositories](https://github.com/orgs/ce
 - [Frontend](https://github.com/cetracker/cetrack-frontend)
 - [Backend](https://github.com/cetracker/cetrack-backend)
 - [Docker Compose](https://github.com/cetracker/cetracker-compose)
-

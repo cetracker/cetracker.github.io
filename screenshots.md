@@ -1,21 +1,44 @@
 ---
 layout: default
 title: Screenshots
+nav_order: 4
 ---
 # Screenshots
 
-## Report
+All screenshots show the built-in demo data (frontend v3.0.1 / backend v1.0.1).
+
+## Usage Report
 
 ![report](./pictures/report.png)
 
-## Parts
+## Bike Composition
 
-![parts](./pictures/parts.png)
+![bike composition](./pictures/bike_composition.png)
 
-## Parts to Part Types relation
+## Bike History
 
-![relations](./pictures/part_relation.png)
+![bike history](./pictures/bike_history.png)
+
+## Components
+
+![components](./pictures/components.png)
+
+## Assemblies
+
+![assemblies](./pictures/assemblies.png)
+
+![assembly detail](./pictures/assembly_detail.png)
+
+## Maintenance
+
+![maintenance](./pictures/maintenance.png)
+
+![maintenance detail](./pictures/maintenance_detail.png)
+
+## Tours
+
+![tours](./pictures/tours.png)
 
 ## Tour Import
 
-![import](./pictures/cetracker_tour_import.png)
+![import](./pictures/tour_import.png)
